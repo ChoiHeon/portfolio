@@ -15,7 +15,7 @@
 ---
 
 # 학습 목록
-현재까지 진행중인 학습 목록입니다.
+현재까지 진행한 학습 목록입니다.
 * [Java Web](https://github.com/ChoiHeon/java_web_study)
 * [Django](https://github.com/ChoiHeon/django_study)
 * [Algorithm](https://github.com/ChoiHeon/algorithm)
