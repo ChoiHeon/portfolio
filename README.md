@@ -16,11 +16,11 @@
 
 # 학습 목록
 현재까지 진행중인 학습 목록입니다.
-* Spring / Springboot
-* Django
-* [Algorithm](https://github.com/ChoiHeon/algorithm.git)
+* [Java Web](https://github.com/ChoiHeon/java_web_study)
+* [Django](https://github.com/ChoiHeon/django_study)
+* [Algorithm](https://github.com/ChoiHeon/algorithm)
 
 ---
 
 # 프로젝트
-* [Cubelab](https://github.com/ChoiHeon/cubelab.git)
+* [Cubelab](https://github.com/ChoiHeon/cubelab)
