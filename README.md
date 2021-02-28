@@ -8,7 +8,7 @@
 * C++
 * **C#**
 * Java
-* [Javascript](https://github.com/ChoiHeob/javascript_study)
+* [Javascript](https://github.com/ChoiHeon/javascript_study)
 * **Python**
 
 
